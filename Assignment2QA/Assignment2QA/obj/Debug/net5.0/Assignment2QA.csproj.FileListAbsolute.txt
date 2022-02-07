@@ -1,0 +1,16 @@
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\Assignment2QA.exe
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\Assignment2QA.deps.json
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\Assignment2QA.runtimeconfig.json
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\Assignment2QA.runtimeconfig.dev.json
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\Assignment2QA.dll
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\ref\Assignment2QA.dll
+D:\QA\Assignment2QA\Assignment2QA\bin\Debug\net5.0\Assignment2QA.pdb
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.csproj.AssemblyReference.cache
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.AssemblyInfoInputs.cache
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.AssemblyInfo.cs
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.csproj.CoreCompileInputs.cache
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.dll
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\ref\Assignment2QA.dll
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.pdb
+D:\QA\Assignment2QA\Assignment2QA\obj\Debug\net5.0\Assignment2QA.genruntimeconfig.cache
